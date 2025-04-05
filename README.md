@@ -53,6 +53,8 @@
  #### 解压 & 运行
 下载完成后，将软件解压到一个**独立的文件夹**，然后在解压后的文件夹找到 `ClassWidgets.exe` 或 `ClassWidgets` 即可运行。
 
+### 之后的操作可参阅[官方文档](https://www.yuque.com/rinlit/class-widgets_help)。
+
 #### 下载 TeachConnect
 您可在此应用 GitHub 仓库中下载最新的 TeachConnect:
 > **关于测试版：** 在测试版中可提前享用最新的功能，但也可能出现预料之外的问题。
